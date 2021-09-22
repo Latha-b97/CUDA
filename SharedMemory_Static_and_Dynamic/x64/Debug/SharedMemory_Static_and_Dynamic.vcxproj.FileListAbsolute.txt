@@ -1,0 +1,2 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\SharedMemory_Static_and_Dynamic\x64\Debug\SharedMemory_Static_and_Dynamic.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\SharedMemory_Static_and_Dynamic\x64\Debug\SharedMemory_Static_and_Dynamic.pdb
