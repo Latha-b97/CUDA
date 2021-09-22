@@ -1,0 +1,2 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ConstantMemory_Raytracing\x64\Debug\ConstantMemory_Raytracing.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ConstantMemory_Raytracing\x64\Debug\ConstantMemory_Raytracing.pdb
