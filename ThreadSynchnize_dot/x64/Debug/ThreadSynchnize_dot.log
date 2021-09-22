@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file dot.cu...
+  
+  D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ThreadSynchnize_dot>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\dot.cu.obj "D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ThreadSynchnize_dot\dot.cu" 
+  dot.cu
+D:/UserData/boopla00/Documents/Visual Studio 2019/Projects/MyNVidiaProjects/MyCollection/ThreadSynchnize_dot/dot.cu(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:/UserData/boopla00/Documents/Visual Studio 2019/Projects/MyNVidiaProjects/MyCollection/ThreadSynchnize_dot/dot.cu(110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ThreadSynchnize_dot.vcxproj -> D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ThreadSynchnize_dot\x64\Debug\ThreadSynchnize_dot.exe

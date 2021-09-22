@@ -1,0 +1,4 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\Chapter_5\ThreadSynchnize_dot\x64\Debug\ThreadSynchnize_dot.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\Chapter_5\ThreadSynchnize_dot\x64\Debug\ThreadSynchnize_dot.pdb
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ThreadSynchnize_dot\x64\Debug\ThreadSynchnize_dot.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ThreadSynchnize_dot\x64\Debug\ThreadSynchnize_dot.pdb
