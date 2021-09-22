@@ -1,5 +1,5 @@
 # CUDA
-CUDA Examples
+CUDA Basics Examples
 
     SumArray - Summing Two vectors
     
