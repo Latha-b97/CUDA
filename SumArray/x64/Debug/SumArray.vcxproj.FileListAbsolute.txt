@@ -1,0 +1,2 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\SumArray\x64\Debug\SumArray.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\SumArray\x64\Debug\SumArray.pdb
