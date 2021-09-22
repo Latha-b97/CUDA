@@ -1,0 +1,2 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ConstMemory_StencilCompute\x64\Debug\ConstMemory_StencilCompute.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\ConstMemory_StencilCompute\x64\Debug\ConstMemory_StencilCompute.pdb
