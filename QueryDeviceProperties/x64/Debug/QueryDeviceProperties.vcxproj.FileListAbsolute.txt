@@ -1,0 +1,2 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\QueryDeviceProperties\x64\Debug\QueryDeviceProperties.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\QueryDeviceProperties\x64\Debug\QueryDeviceProperties.pdb
