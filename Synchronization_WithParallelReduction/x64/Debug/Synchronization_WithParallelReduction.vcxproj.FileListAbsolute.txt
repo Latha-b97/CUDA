@@ -1,0 +1,2 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\Synchronization_WithParallelReduction\x64\Debug\Synchronization_WithParallelReduction.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\Synchronization_WithParallelReduction\x64\Debug\Synchronization_WithParallelReduction.pdb
