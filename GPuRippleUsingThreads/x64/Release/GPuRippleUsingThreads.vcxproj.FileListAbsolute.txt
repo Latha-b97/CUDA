@@ -1,0 +1,2 @@
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\Chapter_5\GPuRippleUsingThreads\x64\Release\GPuRippleUsingThreads.exe
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads\x64\Release\GPuRippleUsingThreads.exe

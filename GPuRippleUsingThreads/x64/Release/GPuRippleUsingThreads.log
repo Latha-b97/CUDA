@@ -1,0 +1,13 @@
+﻿  Compiling CUDA source file ripple.cu...
+  
+  D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile -cudart static     -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Fdx64\Release\vc142.pdb /FS   /MD " -o x64\Release\ripple.cu.obj "D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads\ripple.cu" 
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads\cpu_anim.h(61): warning : conversion from a string literal to "char *" is deprecated
+  
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads\cpu_anim.h(61): warning : conversion from a string literal to "char *" is deprecated
+  
+  ripple.cu
+     Creating library D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads\x64\Release\GPuRippleUsingThreads.lib and object D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads\x64\Release\GPuRippleUsingThreads.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  GPuRippleUsingThreads.vcxproj -> D:\UserData\boopla00\Documents\Visual Studio 2019\Projects\MyNVidiaProjects\MyCollection\GPuRippleUsingThreads\x64\Release\GPuRippleUsingThreads.exe
