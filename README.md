@@ -18,3 +18,5 @@ CUDA Basics Examples
     SharedMemory_Static_and_Dynamic - Exercising shared and static memory
     
     Synchronization_WithParallelReduction - Synchronize the threads using __syncthreads() call
+    
+    ( Examples I learned from Nvidia and Udemy courses)
