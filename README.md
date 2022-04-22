@@ -19,4 +19,4 @@ CUDA Basics Examples
     
     Synchronization_WithParallelReduction - Synchronize the threads using __syncthreads() call
     
-    ( Examples I learned from Nvidia and Udemy courses)
+    ( Examples learned from Nvidia and Udemy courses)
